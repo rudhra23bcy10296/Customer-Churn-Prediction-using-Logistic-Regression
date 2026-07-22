@@ -1,12 +1,9 @@
-# Dataset (as per submission guidelines)
 *.csv
 WA_Fn-UseC_-Telco-Customer-Churn.csv
 
-# Generated images / temp plots
 *.png
 confusion_matrix.png
 
-# Python & Jupyter cache
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
