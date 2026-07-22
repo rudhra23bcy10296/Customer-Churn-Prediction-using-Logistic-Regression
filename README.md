@@ -14,8 +14,6 @@ The analysis is performed using the **Telco Customer Churn Dataset**.
 * **Kaggle Dataset URL**: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 * **Dataset File**: `WA_Fn-UseC_-Telco-Customer-Churn.csv` (7,043 rows, 21 columns)
 
-*Note: In accordance with submission guidelines, the raw dataset file is not uploaded to the repository.*
-
 ---
 
 ## 🛠️ Libraries Used
